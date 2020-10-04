@@ -1,19 +1,20 @@
 # Elgamal
 Elgamal implementation in python
 
-#Requerimietos
+Requerimietos
+
 Librerias requeridas:
 
-  elgamal
+    elgamal
   
-  pycryptodomex
+    pycryptodomex
   
 estas librerias coriendo los siguientes comandos:
 
-  pip install elgamal
+    pip install elgamal
   
-  pip install pycryptodomex
+    pip install pycryptodomex
   
 o realizando el pip install del archivo requirements.txt con el siguiente comando:
 
-  pip install -r requirements.txt
+    pip install -r requirements.txt
